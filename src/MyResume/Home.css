@@ -22,6 +22,10 @@
   .page:hover {
     transform: scale(1);
   }
+
+  .summary {
+    background: linear-gradient(to right, #ff4e50, #f9d423);
+  }
   
   .education {
     background: linear-gradient(to right, #bdc3c7, #2c3e50);

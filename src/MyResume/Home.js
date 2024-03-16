@@ -6,7 +6,7 @@ function Home() {
     return (
         <div className="home-container">
             <Header />
-            <div className="page education">
+            <div className="page summary">
                 <h2>Summary</h2>
                 <p>Having 3 years of work experience in the IT industry as a software engineer. I got 5 awards for best employee,
                     commitment and quality deliverables.</p>
