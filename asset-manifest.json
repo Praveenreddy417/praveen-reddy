@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/praveen-reddy/static/css/main.f855e6bc.css",
-    "main.js": "/praveen-reddy/static/js/main.1919b154.js",
+    "main.css": "/praveen-reddy/static/css/main.83db2e80.css",
+    "main.js": "/praveen-reddy/static/js/main.73384a2b.js",
     "static/js/453.7e36a916.chunk.js": "/praveen-reddy/static/js/453.7e36a916.chunk.js",
-    "static/media/logo.svg": "/praveen-reddy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/PraveenReddy.png": "/praveen-reddy/static/media/PraveenReddy.57e3b21139b8c99db22d.png",
     "index.html": "/praveen-reddy/index.html",
-    "main.f855e6bc.css.map": "/praveen-reddy/static/css/main.f855e6bc.css.map",
-    "main.1919b154.js.map": "/praveen-reddy/static/js/main.1919b154.js.map",
+    "main.83db2e80.css.map": "/praveen-reddy/static/css/main.83db2e80.css.map",
+    "main.73384a2b.js.map": "/praveen-reddy/static/js/main.73384a2b.js.map",
     "453.7e36a916.chunk.js.map": "/praveen-reddy/static/js/453.7e36a916.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.1919b154.js"
+    "static/css/main.83db2e80.css",
+    "static/js/main.73384a2b.js"
   ]
 }
