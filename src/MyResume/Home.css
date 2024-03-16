@@ -1,0 +1,45 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+  }
+  
+  .page {
+    width: 80%;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(to right, #ffafbd, #ffc3a0);
+    color: #333;
+    text-align: center;
+    transform: scale(0.9);
+    transition: all 0.3s ease;
+  }
+  
+  .page:hover {
+    transform: scale(1);
+  }
+  
+  .education {
+    background: linear-gradient(to right, #bdc3c7, #2c3e50);
+  }
+  
+  .experience {
+    background: linear-gradient(to right, #1fa2ff, #12d8fa);
+  }
+  
+  .skills {
+    background: linear-gradient(to right, #43c6ac, #191654);
+  }
+  
+  .projects {
+    background: linear-gradient(to right, #ff0844, #ffb199);
+  }
+  
+  .contact {
+    background: linear-gradient(to right, #f45c43, #eb3349);
+  }
+  
