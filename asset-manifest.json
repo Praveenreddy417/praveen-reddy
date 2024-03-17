@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/praveen-reddy/static/css/main.2227f107.css",
-    "main.js": "/praveen-reddy/static/js/main.84f2485b.js",
+    "main.js": "/praveen-reddy/static/js/main.8e995846.js",
     "static/js/453.7e36a916.chunk.js": "/praveen-reddy/static/js/453.7e36a916.chunk.js",
     "static/media/PraveenReddy.png": "/praveen-reddy/static/media/PraveenReddy.57e3b21139b8c99db22d.png",
     "index.html": "/praveen-reddy/index.html",
     "main.2227f107.css.map": "/praveen-reddy/static/css/main.2227f107.css.map",
-    "main.84f2485b.js.map": "/praveen-reddy/static/js/main.84f2485b.js.map",
+    "main.8e995846.js.map": "/praveen-reddy/static/js/main.8e995846.js.map",
     "453.7e36a916.chunk.js.map": "/praveen-reddy/static/js/453.7e36a916.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2227f107.css",
-    "static/js/main.84f2485b.js"
+    "static/js/main.8e995846.js"
   ]
 }
