@@ -13,7 +13,7 @@ function Home() {
             </div>
             <div className="page education">
                 <h2>Education</h2>
-                <p>Bachelor of Science in Computer Science - University of ABC (2015-2019)</p>
+                <p>MCA (Master of Computer Applications) – from SVEC 2016-19)</p>
             </div>
             <div className="page experience">
                 <h2>Experience(3.1 years)</h2>
